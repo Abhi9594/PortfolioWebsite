@@ -9,7 +9,7 @@ const blogList = [
     description2:
       "The blogs will be on categories like technology, web development, or just random thoughts that give me a sudden overwhelming feeling at the midnight to talk to someone.As this is just a starting, I will be the only author for the (2 min blog) but as we go further I will take blogs from other people too.",
     footer: "See Ya in Glory 😊",
-    authorName: "Akshat Jain",
+    authorName: "Abhimanyu Yadav",
     authorAvatar: "/assets/images/author.jpg",
     createdAt: "August 22 , 2022",
     cover: "/assets/images/que-es-un-blog-1.jpeg",
@@ -27,7 +27,7 @@ const blogList = [
     description3:
       "So Go ahead and create your ToDo list. The best resource I can tell you is youtube only. As I told there are so many videos on youtube, try to understand the concept instead of just copying it. Tell us your experience reading The 2min blog. Share this 2min blog with your friends,colleagues etc",
     footer: "See Ya in Glory 😊",
-    authorName: "Akshat Jain",
+    authorName: "Abhimanyu Yadav",
     authorAvatar: "/assets/images/author.jpg",
     createdAt: "August 24 , 2022",
     cover: "/assets/images/blo2.jpg",
@@ -46,7 +46,7 @@ const blogList = [
     description3:
       "Hahaha, You will not suck at tailwind If you do the right things. I was bad in tailwind in the starting. Then I learned the CSS concepts and Now I am pretty good in the tailwind. That is it for this blog. I hope you like this blog and if you like this blog share it with your friends.",
     footer: "See Ya in Glory 😊",
-    authorName: "Akshat Jain",
+    authorName: "Abhimanyu Yadav",
     authorAvatar: "/assets/images/author.jpg",
     createdAt: "August 26 , 2022",
     cover: "/assets/images/designer-1.jpg",

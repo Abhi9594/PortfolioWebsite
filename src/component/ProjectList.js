@@ -145,14 +145,7 @@ const ProjectList = [
     live: "https://marvel-phasewise-app.netlify.app/",
     id: 14,
   },
-  {
-    name: "Portfolio Website",
-    image: Img8,
-    skills: "Html,Css,Javascript",
-    link: "https://github.com/Akshat2Jain/Portfolio_Website",
-    live: "https://akshatjain.tech/",
-    id: 15,
-  },
+  
   {
     name: "Starbucks Website",
     image: Img9,

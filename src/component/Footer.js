@@ -10,22 +10,22 @@ const Footer = () => {
     <div className="footer">
       <div className="socialMedia">
         <a
-          href="https://www.linkedin.com/in/akshat-jain-991571209/"
+          href="https://www.linkedin.com/in/abhimanyu-yadav-471820215/"
           target="_blank"
         >
           <LinkedInIcon />
         </a>
-        <a href="https://www.instagram.com/akshat_2_jain/?hl=en">
+        <a href="https://www.instagram.com/abhimanyu.yduvanshi/">
           <InstagramIcon />
         </a>
-        <a href="https://github.com/Akshat2Jain">
+        <a href="https://github.com/Abhi9594">
           <GitHubIcon />
         </a>
-        <a href="https://twitter.com/Easyakshat">
+        <a href="https://twitter.com/YadavAbhi95">
           <TwitterIcon />
         </a>
       </div>
-      <p>&copy; 2022 Akshat Jain</p>
+      <p>&copy;Abhimanyu Yadav</p>
     </div>
   );
 };

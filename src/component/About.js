@@ -9,15 +9,14 @@ const About = () => {
       <div className="aboutme">
         <img src={Homeimg} alt="profile" />
         <h4>
-          I Am A Third-Year Student Pursuing Information Technology @ Kiet
+          I Am A Fourth-Year Student Pursuing Information Technology @ Kiet
           Group Of Institutions. I Am Always Ready To Have New Experiences, Meet
           New People And Learn New Things. I Find The Idea Of Creating Value For
           People And Impacting The World Through My Gratifying.
         </h4>
         <h4>
           I Am A Frontend Developer Having The Experience Of 6+ Months And
-          Worked On Over 30+ Projects.I Am Also A Video Editor And Have A
-          Youtube Channel With More Than 200k Views And 500+ Subscribers.I Want
+          Worked On Over 5+ Projects.I Am Also A Video Editor.I Want
           To Be A Developer Who Can Contribute To The Community/Open-Source
           Projects And Teach People About Development.
         </h4>

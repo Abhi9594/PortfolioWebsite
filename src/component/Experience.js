@@ -12,14 +12,15 @@ const Experience = () => {
     <VerticalTimeline lineColor="#3e497a">
       <VerticalTimelineElement
         className="vertical-timeline-element--education"
-        date="2018 - 2020"
+        date="2015 - 2019"
         iconStyle={{ background: "#3e497a", color: "#fff" }}
         icon={<SchoolIcon />}
       >
         <h3 className="vertical-timeline-element-title">
-          Delhi Public School, Bulandshahr
+          Gyan Deep Senior Secondary School Shikohabad
         </h3>
-        <p> Pcm Stream</p>
+        <p>Highschool-9.6 CGPA</p>
+        <p>Intermediate(PCM)-89%</p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--education"
@@ -39,48 +40,48 @@ const Experience = () => {
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        date="Oct 2021- Jan 2022"
+        date="July 2021- August 2021"
         iconStyle={{ background: "#e9d35b", color: "#fff" }}
         icon={<HomeRepairServiceIcon />}
       >
         <h3 className="vertical-timeline-element-title">
-          Frontend Developer - Kiet Erp
+          Frontend Developer - Kiet IIPC
         </h3>
         <h4 className="vertical-timeline-element-subtitle">
           Kiet Ghaziabad
         </h4>
-        <p>ERP(An Institution Body Who Manages The Different Modules For The College)</p>
+        <p>IIPC(An Institution body who provides the internships to the students)</p>
       </VerticalTimelineElement>
 
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        date="Feb 2022 - Present"
+        date="March 2022 - May 2022"
         iconStyle={{ background: "#e9d35b", color: "#fff" }}
         icon={<HomeRepairServiceIcon/>}
       >
         <h3 className="vertical-timeline-element-title">
-          Frontend Developer - Narayan Frumos Pvt Ltd
+          Devnest DSA Bootcamp
         </h3>
         <h4 className="vertical-timeline-element-subtitle">
           Ghaziabad
         </h4>
         <p>
-          A startup company focuses on building the youth haircare products.
+          A startup company focuses on providing quality education.
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        date="June 2022 - Present"
+        date="July 2023 - August 2023"
         iconStyle={{ background: "#e9d35b", color: "#fff" }}
         icon={<HomeRepairServiceIcon />}
       >
         <h3 className="vertical-timeline-element-title">
-          React Developer - Cabin4j
+          Infosys Summer Internship Program
         </h3>
         <h4 className="vertical-timeline-element-subtitle">
-         Lucknow
+         Remote
         </h4>
-        <p>Cabin4j(Cabin4j Suite Is The Most Comprehensive Development Ecosystem That Lets You Build High-Quality Service-Oriented Transactional Applications And Innovative Systems Efficiently And Quickly.)</p>
+        <p>Summer Internship is related with Artificial Intelligence and provide hands on experiance of AI.</p>
       </VerticalTimelineElement>
     </VerticalTimeline>
   </div>
